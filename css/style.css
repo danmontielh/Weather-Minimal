@@ -1,0 +1,46 @@
+@font-face {
+	font-family: Weather;
+	src: url('Weather.ttf');
+}
+
+h1 {
+
+	font-family: 'Chewy', cursive;
+	font-size: 80px;
+}
+
+
+.main-head {
+	margin-top: 30px;
+}
+
+.text-weather {
+
+	font-family: 'Voltaire', sans-serif;
+	font-size: 35px;
+}
+
+
+
+.main-weather{
+	width: 600px;
+}
+
+.main-weather {
+	font-family: Weather;
+	font-size: 180px;
+}
+
+.temp-weather {
+
+
+	font-family: 'Voltaire', sans-serif;
+	font-size: 35px;
+}
+
+.desc-weather {
+
+
+	font-family: 'Voltaire', sans-serif;
+	font-size: 35px;
+}
